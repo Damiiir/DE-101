@@ -1,7 +1,8 @@
-# Задание для модуля 1
+# Домашняя работа для модуля 2
 
-Дашборд в excel тут [dashboard](https://github.com/Damiiir/DE-101/blob/master/DE-101/Module1/Dashboard.xlsx)
+Скрипты загрузки в базу SQL SERVER тут [script1](https://github.com/Damiiir/DE-101/blob/master/DE-101/Module2/insert%20into%20dbo.orders.sql), [script2](https://github.com/Damiiir/DE-101/blob/master/DE-101/Module2/insert%20into%20stg.orders.sql), [script3](https://github.com/Damiiir/DE-101/blob/master/DE-101/Module2/insert%20into%20table%20dbo.people.sql), [script4](https://github.com/Damiiir/DE-101/blob/master/DE-101/Module2/insert%20into%20table%20dbo.returns%20.sql)
 
-Общая архитектура аналитического решения тут [architecture](https://github.com/Damiiir/DE-101/blob/master/DE-101/Module1/%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0.png)
+Запросы к БД для ответов на вопросы из модуля 1 [queries](https://github.com/Damiiir/DE-101/blob/master/DE-101/Module2/answers%20on%20questions%20from%20Module1.sql)
 
-![Architecture](C:\Users\sarse\new_project\DE-101\Module1\Архитектура.png "architecture")
+Пример запросов с выводом результата
+![SQL Server](https://github.com/Damiiir/DE-101/blob/master/DE-101/Module2/1.PNG "queries")
