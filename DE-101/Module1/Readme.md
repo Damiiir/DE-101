@@ -1,4 +1,5 @@
-# Задание для модуля 1
+# Домашняя работа 
+## Модуль 1
 
 Дашборд в excel тут [dashboard](https://github.com/Damiiir/DE-101/blob/master/DE-101/Module1/Dashboard.xlsx)
 
