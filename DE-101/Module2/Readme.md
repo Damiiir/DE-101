@@ -6,4 +6,5 @@
 Запросы к БД для ответов на вопросы из модуля 1 [queries](https://github.com/Damiiir/DE-101/blob/master/DE-101/Module2/answers%20on%20questions%20from%20Module1.sql)
 
 Пример запросов с выводом результата
+
 ![SQL Server](https://github.com/Damiiir/DE-101/blob/master/DE-101/Module2/1.PNG "queries")
