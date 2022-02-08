@@ -1,4 +1,5 @@
-# Домашняя работа для модуля 2
+# Домашняя работа
+## Модуль 2
 
 Скрипты загрузки в базу SQL SERVER тут [script1](https://github.com/Damiiir/DE-101/blob/master/DE-101/Module2/insert%20into%20dbo.orders.sql), [script2](https://github.com/Damiiir/DE-101/blob/master/DE-101/Module2/insert%20into%20stg.orders.sql), [script3](https://github.com/Damiiir/DE-101/blob/master/DE-101/Module2/insert%20into%20table%20dbo.people.sql), [script4](https://github.com/Damiiir/DE-101/blob/master/DE-101/Module2/insert%20into%20table%20dbo.returns%20.sql)
 
