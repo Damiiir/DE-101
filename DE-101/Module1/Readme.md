@@ -4,4 +4,4 @@
 
 Общая архитектура аналитического решения тут [architecture](https://github.com/Damiiir/DE-101/blob/master/DE-101/Module1/%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0.png)
 
-![Architecture](C:\Users\sarse\new_project\DE-101\Module1\Архитектура.png "architecture")
+![Architecture](https://github.com/Damiiir/DE-101/blob/master/DE-101/Module1/%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0.png "architecture")
